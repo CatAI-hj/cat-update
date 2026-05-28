@@ -1,0 +1,7 @@
+{
+  "version": "2.1",
+  "versionCode": 21,
+  "download_url": "https://www.mediafire.com/file/xhwoczsrnultgmn/Cat.apk/file",
+  "changelog": "新增远程推送通知功能\n新增MaoboAI\n",
+  "force_update": false
+}
