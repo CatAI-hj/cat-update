@@ -2,6 +2,6 @@
   "version": "3.0",
   "versionCode": 260528,
   "download_url": "https://www.mediafire.com/file/xhwoczsrnultgmn/Cat.apk/file",
-  "changelog": "新增远程推送更新通知功能\n新增版本号显示（右上角）\n新增MaoboAI\n邮箱测试，往任意邮箱发送任意信息获取Meimodu300电量兑换码，数量有限先到先得\n截止20260606,23:59\n发放时间20260607,00:00",
+  "changelog": "新增远程推送更新通知功能\n新增版本号显示（右上角）\n新增MaoboAI\n",
   "force_update": false
 }
