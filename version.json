@@ -1,7 +1,7 @@
 {
-  "version": "3.0",
+  "version": "3.01",
   "versionCode": 260528,
   "download_url": "https://www.mediafire.com/file/xhwoczsrnultgmn/Cat.apk/file",
-  "changelog": "新增远程推送更新通知功能\n新增版本号显示（右上角）\n新增MaoboAI\n",
+  "changelog": "（非新版本，无需下载，看看即可）魅魔岛前些日子遭遇攻击，免魔法地址无法无法登录问题决解方法：清除软件数据，或者卸载重新安装",
   "force_update": false
 }
