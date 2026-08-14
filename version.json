@@ -2,7 +2,7 @@
   "version": "3.2",
   "versionCode": 260814,
   "download_url": "https://www.mediafire.com/file/xhwoczsrnultgmn/Cat.apk/file",
-  "changelog": "修改 春水AI 无法跳转问题,调整网页跳转算法，远程更新网页地址，不再需要频繁更新软件",
+  "changelog": "修复 春水AI 无法跳转问题,调整网页跳转算法，远程更新网页地址，不再需要频繁更新软件",
   "force_update": false,
   "meimodao_mianmofa":"https://i.meimoai15.com/IKMum",
   "meimodao":"https://i.sexyai.ai/IKMum",
