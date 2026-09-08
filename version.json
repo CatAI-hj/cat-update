@@ -15,17 +15,10 @@
   "extra_sites": [
     {
       "key": "NewSite1",
-      "name": "新站点A",
-      "url": "https://example.com/path",
-      "bg": "https://i.postimg.cc/xxx/bg.png",
+      "name": "测试站点",
+      "url": "https://www.runoob.com/try/try.php?filename=tryhtml_intro",
+      "bg": "https://laowang.vip/template/laowang/deancss/logo.png",
       "color": "#0e7490"
     },
-    {
-      "key": "NewSite2",
-      "name": "新站点B",
-      "url": "https://another.com",
-      "bg": "https://i.postimg.cc/yyy/bg2.png",
-      "color": "#7c3aed"
-    }
   ]
 }
