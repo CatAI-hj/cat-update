@@ -1,15 +1,31 @@
 {
   "version": "3.2",
-  "versionCode": 260814,
+  "versionCode": 260908,
   "download_url": "https://www.mediafire.com/file/xhwoczsrnultgmn/Cat.apk/file",
-  "changelog": "修复 春水AI 无法跳转问题,调整网页跳转算法，远程更新网页地址，不再需要频繁更新软件",
+  "changelog": "支持远程新增入口，无需发版\n修复 JSON 解析问题",
   "force_update": false,
-  "meimodao_mianmofa":"https://i.meimoai14.com/IKMum",
-  "meimodao":"https://i.sexyai.ai/IKMum",
-  "DZMM":"https://www.dzmm.ai?rf=af074c44",
-  "FengyueAI":"https://aify.pages.dev?ref_id=abedde90-41eb-4c6f-a916-ab777c098d25",
-  "ChunshuiAI":"https://chunshuiai.net/auth?ref=WD8RDXM4",
-  "ManboAI":"https://manbo.chat/?invite=ODH27U",
-  "FLai":"https://flailink.com/s/j2e1t6",
-  "WangxiangAI":"https://aisese.ai/?ref=6CEYJUQN"
+  "meimodao_mianmofa": "https://i.meimoai15.com/IKMum",
+  "meimodao": "https://i.sexyai.ai/IKMum",
+  "DZMM": "https://www.dzmm.ai?rf=af074c44",
+  "FengyueAI": "https://aify.pages.dev?ref_id=abedde90-41eb-4c6f-a916-ab777c098d25",
+  "ChunshuiAI": "https://aiorbit.online/WD8RDXM4",
+  "ManboAI": "https://manbo.chat/?invite=ODH27U",
+  "FLai": "https://flailink.com/s/j2e1t6",
+  "WangxiangAI": "https://aisese.ai/?ref=6CEYJUQN",
+  "extra_sites": [
+    {
+      "key": "NewSite1",
+      "name": "新站点A",
+      "url": "https://example.com/path",
+      "bg": "https://i.postimg.cc/xxx/bg.png",
+      "color": "#0e7490"
+    },
+    {
+      "key": "NewSite2",
+      "name": "新站点B",
+      "url": "https://another.com",
+      "bg": "https://i.postimg.cc/yyy/bg2.png",
+      "color": "#7c3aed"
+    }
+  ]
 }
