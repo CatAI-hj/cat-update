@@ -2,7 +2,7 @@
   "version": "3.3",
   "versionCode": 260908,
   "download_url": "https://www.mediafire.com/file/xhwoczsrnultgmn/Cat.apk/file",
-  "changelog": "新增妄想AI(每日签到获得500积分，但是签到获得的积分夜间会清零，只能当天使用，使用注册码可获得3000永久积分，此外还可自行外接其他模型厂商API)\n注意，本次更新因为更换了别的服务器，所以下载新版本后需要先卸载旧版本才能安装\n旧版本依然可以正常使用，没有影响。\n部分机型会弹出SSL认证错误，不必理会，点取消或者确定都行，这个只会影响主页面的css动画，对网站没有影响",
+  "changelog": "新增妄想AI(每日签到获得500积分，但是签到获得的积分夜间会清零，只能当天使用，使用注册码可获得3000永久积分，此外还可自行外接其他模型厂商API)",
   "force_update": false,
   "meimodao_mianmofa": "https://i.meimoai15.com/IKMum",
   "meimodao": "https://i.sexyai.ai/IKMum",
