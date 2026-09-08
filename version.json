@@ -2,7 +2,7 @@
   "version": "3.2",
   "versionCode": 260908,
   "download_url": "https://www.mediafire.com/file/xhwoczsrnultgmn/Cat.apk/file",
-  "changelog": "支持远程新增入口，无需发版\n修复 JSON 解析问题",
+  "changelog": "支持远程新增入口，无需发版\n修复 JSON 解析问题\n弹窗测试",
   "force_update": false,
   "meimodao_mianmofa": "https://i.meimoai15.com/IKMum",
   "meimodao": "https://i.sexyai.ai/IKMum",
